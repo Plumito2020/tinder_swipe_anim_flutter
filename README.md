@@ -1,4 +1,4 @@
-# linker_project
+# tinter_project
 
 A new Flutter project.
 
