@@ -1,15 +1,16 @@
 # tinter_project
 
-A new Flutter project.
+The famous Tinder animation "Swipe Right or Left" made with Flutter & Dart from scratch and the logic behind deleting a card from the stack using the provider package . 
+
+Performance improvement are yet to come .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Here is a few resources to get you started and understand animations in Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Flutter Documentation](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
+- [Reso Coder article ](https://resocoder.com/2019/08/01/flutter-animation-tutorial-understand-the-basics-animate-with-ease/#What8217s_Next)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
